@@ -149,3 +149,5 @@ function fs() {
 		du $arg .[^.]* ./*;
 	fi;
 }
+
+alias front='cd resources/assets/AngularJs-Admin'
